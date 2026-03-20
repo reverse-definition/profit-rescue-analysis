@@ -99,7 +99,8 @@ Based on the analysis, the following actions are recommended:
 ## Files in This Repository
 
 - `profit_rescue_analysis.sql` — Full SQL code for database setup, cleaning, feature engineering, and view creation
-- `dashboard.xlsx` — Excel dashboard built from the SQL views
+- `dashboard_pra.xlsx` — Excel dashboard built from the SQL views
+- `sample - superstore.csv` - Dataset utilized for the project containing the Superstore data
 - `README.md` — Project documentation
 
 ## How to Reproduce
